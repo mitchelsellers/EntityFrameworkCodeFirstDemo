@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFConsole", "EFConsole\EFConsole.csproj", "{B69E1B33-F7B7-49D0-B0F2-73B790A6A47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemoDataTier", "EfDemoDataTier\EfDemoDataTier.csproj", "{FDBACBB3-11B5-4489-AE5C-EFC5BB022DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69E1B33-F7B7-49D0-B0F2-73B790A6A47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69E1B33-F7B7-49D0-B0F2-73B790A6A47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69E1B33-F7B7-49D0-B0F2-73B790A6A47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69E1B33-F7B7-49D0-B0F2-73B790A6A47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBACBB3-11B5-4489-AE5C-EFC5BB022DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBACBB3-11B5-4489-AE5C-EFC5BB022DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBACBB3-11B5-4489-AE5C-EFC5BB022DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBACBB3-11B5-4489-AE5C-EFC5BB022DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
